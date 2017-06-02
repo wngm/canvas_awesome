@@ -1,0 +1,17 @@
+{
+  "name": "canvas_awesome",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "wng <404313843@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wngzhe/canvas_awesome",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
